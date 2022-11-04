@@ -11,4 +11,7 @@ $(document).ready(function () {
         // Save text in local storage
         localStorage.setItem(time, text);
     })
-
+    
+            // function tracks the current time of the day and amount of hours
+                function timeTracker() {
+                    var timeNow = moment().hour();
