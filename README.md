@@ -17,11 +17,17 @@ To install necessary dependencies, run the following command:
 N/A
 
 ## Usage
+<img width="950" alt="Screenshot 2022-11-04 131910" src="https://user-images.githubusercontent.com/110499007/200037994-db625cb3-8ce4-40c3-beae-b020941d9baa.png">
+<img width="947" alt="Screenshot 2022-11-04 131942" src="https://user-images.githubusercontent.com/110499007/200038026-8623cb2e-e341-43d4-9dbd-6b06bb8db253.png">
+<img width="948" alt="Screenshot 2022-11-04 132019" src="https://user-images.githubusercontent.com/110499007/200038058-8f5aadcb-b400-44ea-be1e-9ce35ddce1fa.png">
+
+
 In order for users to use this repo they simply just have to type their note into wichever timeblocks they wish to set important reminders in for that specific day and click the save button so that even if the page is refreshed their notes will still be in the time block. If they wish to delete any notes then they can simply erase what they have typed in there and click the save button again and it will be deleted.
 ## License
 This project is licensed under the MIT https://opensource.org/licenses/MIT
 
 ## URL
+https://zechariahmn.github.io/Work-Day-Planner/
 
 ## Contributing
 N/A
