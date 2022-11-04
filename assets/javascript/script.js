@@ -41,6 +41,8 @@ $(document).ready(function () {
                     }
 
     // Get item from local storage if any
+    $("#hour5 .description").val(localStorage.getItem("hour5"));
+    $("#hour6 .description").val(localStorage.getItem("hour6"));
     $("#hour7 .description").val(localStorage.getItem("hour7"));
     $("#hour8 .description").val(localStorage.getItem("hour8"));
     $("#hour9 .description").val(localStorage.getItem("hour9"));
