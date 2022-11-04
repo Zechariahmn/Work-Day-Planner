@@ -15,3 +15,8 @@ $(document).ready(function () {
             // function tracks the current time of the day and amount of hours
                 function timeTracker() {
                     var timeNow = moment().hour();
+
+                    // loop over time blocks
+                    $(".time-block").each(function () {
+                        var blockTime = parseInt($(this).attr("id").split("hour")[1]);
+
